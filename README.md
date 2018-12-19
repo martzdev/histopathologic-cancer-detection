@@ -1,2 +1,2 @@
 # histopathologic-cancer-detection
-identifying metastatic cancer using machine learning
+Identifying metastatic cancer using machine learning

@@ -15,3 +15,4 @@ Identifying metastatic cancer using machine learning
 #### In this example you can easily 'predict' the malign one.
 
 ### Models
+#### ResNets - 93% accuracy

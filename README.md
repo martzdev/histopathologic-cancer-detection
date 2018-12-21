@@ -16,3 +16,4 @@ Identifying metastatic cancer using machine learning
 
 ### Models
 #### ResNets - 93% accuracy
+#### *will update with more models*
